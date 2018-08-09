@@ -1,9 +1,8 @@
 title: ASM - the Android Studio Mobile.
 
-#author: GitHub User
+author: ASM Team
 #email: your-email@domain.com
 description: Code, Build, and Run on your mobile device.
 
-#social links
-github_username: your-github-handle #show_excerpts: false # set to false to remove excerpts on the homepage
+show_excerpts: true # set to false to remove excerpts on the homepage
 theme: jekyll-theme-cayman
